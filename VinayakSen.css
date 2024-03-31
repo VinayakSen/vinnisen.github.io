@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinayak Sen</title>
+    <link rel="icon" type="image/x-icon" href="vsvs.jpg">
+
+</head>
+<style>
+.top-container{
+
+    background-color: cornflowerblue;
+    position: relative;
+    padding-top: 100px;
+    font-style: italic;
+    
+
+}
+
+.top-cloud{
+
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+#th1{
+
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+th2{
+
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+    
+.bottom-cloud{
+
+    position: relative;
+    right: 400px;
+    margin-bottom: 80px;
+}
+
+
+
+#my-pic{
+border-radius: 100%;
+height: 150px;
+    aspect-ratio: auto 150 / 150;
+    width: 150px;
+   margin-top: 20px;
+}
+
+#hm2{
+
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+#p1{
+
+    width: 30%;
+    margin: auto;
+    font-style: italic;
+    font-size: large;
+
+
+    
+}
+#hm2{
+
+
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+#code-img{
+
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+    margin-left: 30%;
+    aspect-ratio: auto 150 / 150;
+    width: 150px;
+    margin-top: 5%;
+   
+
+}
+
+#h3m{
+
+    color: #66BFBF;
+  font-style: italic;
+ font-size: large;
+text-decoration: underline;
+margin-right: 20%;
+margin-top: 5%;
+}
+
+#p2{
+
+    display: block;
+    font-size: large;
+   font-style: italic;
+   text-align: center;
+   margin-right: 20%;
+}
+
+
+
+
+
+#h3{
+    color: #66BFBF;
+  font-style: italic;
+ font-size: large;
+text-decoration: underline;
+margin-right: 50%;
+margin-top: 17%;
+margin-bottom: -1%;
+
+}
+
+#chilly{
+
+    border-radius: 100%;
+    height: 150px;
+    aspect-ratio: auto 150 / 150;
+    width: 150px;
+   margin-top: 20px;
+   margin-left: 14%;
+ 
+   
+
+}
+
+#p3{
+    
+    display: block;
+    font-size: large;
+   font-style: italic;
+   text-align: center;
+   margin-right: 50%;
+   margin-top: -13%;
+}
+
+h2{
+
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+   
+h3{
+
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#lp{
+
+   color: #40514E;
+   font-style: italic;
+    font-size: large;
+    text-align: center;
+    margin-top: -2%;
+    margin-left: -17px;
+    word-spacing: normal;
+    
+
+
+}
+.btn{
+background: #11cdd4;
+    text-decoration: underline;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+
+a:-webkit-any-link:hover{
+    color: blue;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.fotter-link{
+
+
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.copyright{
+
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+hr{
+
+    border: dotted lightblue 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+
+}
+
+
+
+
+
+
+
+
+</style>
+<body>
+        
+    <div class="top-container">
+        <img class="top-cloud " src="cloud (2).png" alt="cloud" >
+        <div class="title-text">
+           <h1 id="th1">I am Vinayak.</h1>
+           <h2 id="th2">A web developer.</h2>
+   
+           <img class="bottom-cloud" src="cloud (2).png" alt="bottom-cloud">
+   
+   
+        </div>
+ 
+   
+       </div>
+       
+       <div class="middle container">
+           <div class="my-pic">
+               <img id="my-pic" src="anuj.jpg" style="text-align: center;" alt="My-pic" height="150px"
+               
+               width="150px">
+               
+         
+           
+           </div>
+           <h2 id="hm2">Hello.</h2>
+           <p  id="p1">I am web developer. I❤️coding and developing websites.</p>
+           <hr>
+           <div class="skills">
+               <h2 id="hm2">MY SKILLS.</h2>
+               <div class="skill row">
+                <img id="code-img" src="code image.jpg" alt="code-img">
+               </div>
+                <h3 id="h3m">Design & development</h3>
+         
+         <p id="p2"> 
+              I started learing coding when I was 16. 
+              I wanted to make my own website. Over time,
+              I also started creating application when I was in my school time.</p>
+
+               <h3 id="h3">Hot wings chilly challenge</h3>
+
+               <img id="chilly" src="chilli.jpg" alt="chilly challange">
+
+
+               <pre>
+               <p id="p3">
+                 But my best skill is actually in eating hot wings.
+                 I am the undisputed king of hot wing challenges.
+                 Ghost Peppers and Carolina Reapers are my favourite snacks.</p>
+                </pre>
+              </div>
+              <hr>
+
+              <div class="contact me">
+<h2>Get In Touch</h2>
+<h3>If you love hot wings as much as I do.</h3>
+
+<pre> 
+
+<p id="lp">    Love hot wings as much as I do?
+    Let's talk about how awesome they are! 
+    We can code while we eat hot wings!
+
+</p>
+</pre>
+<a class="btn" href="mailto:vinayaksen111@gmail.com">CONTACT ME</a>
+<div class="bottom-container">
+    <a class="fotter-link" href="https://www.linkedin.com/in/vinnii-undefined-21301923a/">LinkedIn</a>
+    <a class="fotter-link" href="https://github.com/VinayakSen/vinnisen.github.io?tab=readme-ov-file#vinnisengithubio"> Website</a>
+  
+    <p class="copyright">© 2024 Vinayak Sen.</p>
+   
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+
+              </div>
+</body>
+</html>
